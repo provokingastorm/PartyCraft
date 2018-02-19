@@ -42,4 +42,4 @@ add_subdirectory( src/helpers )
 add_subdirectory( src/core )
 
 #--- Games ---
-add_subdirectory( src/games/papercraft )
+add_subdirectory( src/partycraft )
