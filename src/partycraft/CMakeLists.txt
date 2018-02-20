@@ -3,7 +3,11 @@ cmake_minimum_required( VERSION 2.8 )
 
 #------ sources ------
 set( PARTYCRAFT_SRC
+	game.cpp
+	game.h
+	gamememory.h
 	partycraft.cpp
+	partycraftdata.h
     )
 
 #------ additional includes ------

@@ -1,6 +1,8 @@
 // partycraft.cpp
 
 #include "..\..\include\hge.h"
+#include "gamememory.h
+#include "game.h"
 
 HGE *hge=0;
 
@@ -61,3 +63,5 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 	hge->Release();
 	return 0;
 }
+
+// EOF
